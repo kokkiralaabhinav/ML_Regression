@@ -4,3 +4,5 @@ Machine Learning Regression is a technique for investigating the relationship be
 Regression analysis is one of the most basic tools in the area of machine learning used for prediction. Using regression you fit a function on the available data and try to predict the outcome for the future or hold-out datapoints.
 ## What is the concept of regression-
 A regression is a statistical technique that relates a dependent variable to one or more independent (explanatory) variables. A regression model is able to show whether changes observed in the dependent variable are associated with changes in one or more of the explanatory variables.
+## What is the main purpose of regression-
+Regression allows researchers to predict or explain the variation in one variable based on another variable. Definitions: ❖ The variable that researchers are trying to explain or predict is called the response variable. It is also sometimes called the dependent variable because it depends on another variable.
